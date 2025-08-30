@@ -9,7 +9,7 @@ I believe data tells powerful stories. with the right tolls and skills, I can he
 
 ## Roadmap  
 - ✅ Assignment A0 — Foundations  
-- 🔜 Phase 1 — Ask (Defining Questions and Problems)  
+- 🔜 Phase 1 — Ask (Defining Questions and Problems) 
 - 🔜 Phase 2 — Prepare (Data Collection and Cleaning)  
 - 🔜 Phase 3 — Process (Data Transformation)  
 - 🔜 Phase 4 — Analyze (Exploring Data)  
